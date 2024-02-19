@@ -3,7 +3,7 @@
 1. HTML
 
 A. tags
-    paragraph "<p></p>"
+    paragraph 
     anchor "<a href="tablel.html" style="font-size: 20px;" id="registration1"> registration</a>"
 </pre>
 <pre>
@@ -18,9 +18,9 @@ We can apply style to page using - element and selector
 
 Element - using tag
 Selector
-    Universal "*",
-    class - "."
-    id - "#"
+    Universal *
+    class - .
+    id - #
 
 
 Box Model
